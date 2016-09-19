@@ -19,13 +19,13 @@ to any number you want just keep in mind that this might break or make your phon
  <h1>Code</h1>
 </div>
 
-<div align="center"><p><key>ProductBuildVersion</key>
-	<>13G34
-	<>ProductCopyright
-	<>1983-2016 Apple Inc.
-	<>ProductName
-	<>iPhone OS<>
-	<>ProductVersion<>
-	<>9.3.3<></p></div>
+<div align="center"><p>ProductBuildVersion</p>
+	<p>13G34</p>
+	<p>ProductCopyright</p>
+	<p>1983-2016 Apple Inc</p>
+	<p>ProductName</p>
+	<p>iPhone OS</p>
+	<p>ProductVersion</p>
+	<p>9.3.3</p></div>
 </body>
 </html>
