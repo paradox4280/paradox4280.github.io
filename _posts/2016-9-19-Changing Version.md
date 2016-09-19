@@ -20,10 +20,10 @@ to any number you want just keep in mind that this might break or make your phon
 </div>
 
 <div align="center"><p><key>ProductBuildVersion</key>
-	<>13G34<>
-	<>ProductCopyright<>
-	<>1983-2016 Apple Inc.<>
-	<>ProductName<>
+	<>13G34
+	<>ProductCopyright
+	<>1983-2016 Apple Inc.
+	<>ProductName
 	<>iPhone OS<>
 	<>ProductVersion<>
 	<>9.3.3<></p></div>
