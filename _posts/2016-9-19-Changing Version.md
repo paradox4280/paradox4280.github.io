@@ -4,7 +4,7 @@
 <title>ChangingVersion</title>
 </head>
 <body>
-<div align="center"><p>Hello there this only applies to jailbroken devices.</p></div>
+<div align="center"><h1><p>Hello there this only applies to jailbroken devices.></p></h1></div>
 <div align="center"><h1>-Tools Need-</h1></div>
 <div align="center">#Jailbroken Device</div>
 <div align="center">#ifile/file explorer</div>
