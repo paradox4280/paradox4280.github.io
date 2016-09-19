@@ -3,15 +3,15 @@
 <title>ChangingVersion</title>
 </head>
 <body>
-<p>Helloo there this only applies to jailbroken devices.</p>
-<h1>-Tools Need-</h1>
-#Jailbroken Device
-#ifile/file explorer
+<div align="center"><p>Hello there this only applies to jailbroken devices.</p></div>
+<div align="center"><h1>-Tools Need-</h1></div>
+<div align="center">#Jailbroken Device</div>
+<div align="center">#ifile/file explorer</div>
 <p>Now you need to got to these "dir" in ifile
 (System/Library/CoreServices/SystemVersion)
 When you click on SystemVersion you will see 
-a code that looks like the below one.
-All you need to do is edit the ProductVersion key strings
+a code that looks like the below one.</p>
+<p>All you need to do is edit the ProductVersion key strings
 to any number you want just keep in mind that this might break or make your phone stuck in bootlogo</p>
 
 <div align="center">
