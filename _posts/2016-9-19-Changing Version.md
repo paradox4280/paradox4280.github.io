@@ -14,7 +14,10 @@ a code that looks like the below one.
 All you need to do is edit the ProductVersion key strings
 to any number you want just keep in mind that this might break or make your phone stuck in bootlogo</p>
 
-                                            <h1>CODE</h1>
+<div align="center">
+ <h1>Code</h1>
+</div>
+
 <p><?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
