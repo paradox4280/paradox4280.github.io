@@ -10,15 +10,11 @@ thanks for checking it out now would you kindly get lost.
 
 
 <head>
-
-
+<link rel="stylesheet" type="text/css" href="about.css">
 </head>
 
 <body>
-<body bgcolor="#E6E6FA">
-
 </body>
-
 
 </html>
 
