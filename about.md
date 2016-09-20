@@ -15,7 +15,7 @@ thanks for checking it out now would you kindly get lost.
 </head>
 
 <body>
-bgcolor="#E6E6FA">
+<body bgcolor="#E6E6FA">
 
 </body>
 
