@@ -10,7 +10,7 @@ thanks for checking it out now would you kindly get lost.
 
 
 <head>
-<link rel="stylesheet" type="text/css" href="about.css">
+<link rel="stylesheet" type="text/scss" href="./_scss/about.scss">
 </head>
 
 <body>
